@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc= "http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Zorba</dc:title>
+    <dc:creator>Nikos Kazancakis</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:publisher>Can Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:description>335 sayfa</dc:description>
+</rdf:Description>   
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Yeniden Çarmıha Geriliş</dc:title>
+    <dc:creator>Nikos Kazancakis</dc:creator>
+    <dc:date>1998</dc:date>
+    <dc:publisher>Oda Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:description>511 sayfa</dc:description>
+</rdf:Description>   
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Allahın Garibi</dc:title>
+    <dc:creator>Nikos Kazancakis</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:publisher>İz Yayıncılık</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:description>513 sayfa</dc:description>
+</rdf:Description>   
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Huzursuzluk</dc:title>
+    <dc:creator>Zülfü Livaneli</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:description>160 sayfa</dc:description>
+</rdf:Description>       
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Serenad</dc:title>
+    <dc:creator>Zülfü Livaneli</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:description>484 sayfa</dc:description>
+</rdf:Description>
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Konstantinniye Oteli</dc:title>
+    <dc:creator>Zülfü Livaneli</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:publisher>Doğan Kitap</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:description>480 sayfa</dc:description>
+</rdf:Description>
+
+</rdf:RDF>
