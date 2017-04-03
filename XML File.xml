@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VERİTABANI>
+<YAZARLAR>
+    <Yazar>
+        <YazarID>2001</YazarID>
+        <KitapID>1001</KitapID>
+        <Adi>Nikos</Adi>
+        <Soyadi>Kazancakis</Soyadi>
+        <Doğumyili>1883</Doğumyili>
+    
+    </Yazar>
+    <Yazar>
+        <YazarID>2002</YazarID>
+        <KitapID>1002</KitapID>
+        <Adi>Cheryl</Adi>
+        <Soyadi>Strayed</Soyadi>
+        <Doğumyili>1968</Doğumyili>
+            
+    </Yazar>
+     <Yazar>
+        <YazarID>2003</YazarID>
+        <KitapID>1006</KitapID>
+        <Adi>Zülfü</Adi>
+        <Soyadi>Livaneli</Soyadi>
+        <Doğumyili>1946</Doğumyili>
+            
+    </Yazar>
+    <Yazar>
+        <YazarID>2004</YazarID>
+        <KitapID>1010</KitapID>
+        <Adi>Yuval Noah</Adi>
+        <Soyadi>Harari</Soyadi>
+        <Doğumyili>1976</Doğumyili>
+    
+    </Yazar>
+    <Yazar>
+        <YazarID>2005</YazarID>
+        <KitapID>1013</KitapID>
+        <Adi>George</Adi>
+        <Soyadi>Orwell</Soyadi>
+        <Doğumyili>1903</Doğumyili>
+            
+    </Yazar>
+</YAZARLAR>
+<KITAPLAR>
+    <Kitap>
+        <KitapId>1001</KitapId>
+        <ISBN> 978 9 7507 2248 6</ISBN>
+        <Adi>Zorba</Adi>
+        <BaskiTarihi>2016</BaskiTarihi>
+        <Sayfa>335</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>1002</KitapId>
+        <ISBN> 978 6 0534 3426 9</ISBN>
+        <Adi>Yaban</Adi>
+        <BaskiTarihi>2015</BaskiTarihi>
+        <Sayfa>416</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>1003</KitapId>
+        <ISBN>979 9 7538 5106 9</ISBN>
+        <Adi>Yeniden Carmıha Gerilis</Adi>
+        <BaskiTarihi>1998</BaskiTarihi>
+        <Sayfa>511</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>1004</KitapId>
+        <ISBN>978 9 7535 5532 6</ISBN>
+        <Adi>Allahın Garibi</Adi>
+        <BaskiTarihi>2016</BaskiTarihi>
+        <Sayfa>513</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>1005</KitapId>
+        <ISBN>978 9 7507 3350 5</ISBN>
+        <Adi>El Greco'ya Mektuplar</Adi>
+        <BaskiTarihi>20016</BaskiTarihi>
+        <Sayfa>539</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>1006</KitapId>
+        <ISBN>978 6 0509 3982 8</ISBN>
+        <Adi>   Huzursuzluk</Adi>
+        <BaskiTarihi>2017</BaskiTarihi>
+        <Sayfa>160</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>1007</KitapId>
+        <ISBN>978 6 0509 0028 6</ISBN>
+        <Adi>  Serenad</Adi>
+        <BaskiTarihi>2011</BaskiTarihi>
+        <Sayfa>484</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>1008</KitapId>
+        <ISBN> 978 6 0509 2631 6</ISBN>
+        <Adi>Konstantinniye Oteli</Adi>
+        <BaskiTarihi>2015</BaskiTarihi>
+        <Sayfa>480</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>1009</KitapId>
+        <ISBN>978 6 0509 3094 8</ISBN>
+        <Adi>Orta Zekalılar Cenneti</Adi>
+        <BaskiTarihi>2015</BaskiTarihi>
+        <Sayfa>446</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>1010</KitapId>
+        <ISBN>  978 6 0550 2963 0</ISBN>
+        <Adi>Homo Deus: Yarının Kısa Bir Tarihi</Adi>
+        <BaskiTarihi>2016</BaskiTarihi>
+        <Sayfa>456</Sayfa>
+        <Tur>İnceleme Araştırma</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>1011</KitapId>
+        <ISBN>  978 6 0550 2935 7</ISBN>
+        <Adi>YSapiens: Hayvanlardan Tanrılara</Adi>
+        <BaskiTarihi>2016</BaskiTarihi>
+        <Sayfa>412</Sayfa>
+        <Tur>Popüler Bilim</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>1012</KitapId>
+        <ISBN>975 0 7185 33</ISBN>
+        <Adi>1984</Adi>
+        <BaskiTarihi>2017</BaskiTarihi>
+        <Sayfa>352</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>1013</KitapId>
+        <ISBN>975 0 7193 87</ISBN>
+        <Adi>Hayvan Çiftliği</Adi>
+        <BaskiTarihi>2016</BaskiTarihi>
+        <Sayfa>152</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+        <KitapId>1014</KitapId>
+        <ISBN>975 0 7264 91</ISBN>
+        <Adi>Boğulmamak İçin</Adi>
+        <BaskiTarihi>2017</BaskiTarihi>
+        <Sayfa>256</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    <Kitap>
+    <KitapId>1015</KitapId>
+        <ISBN>978 6 0509 0543 4</ISBN>
+        <Adi> Araf'ta Bir Çocuk</Adi>
+        <BaskiTarihi>2012</BaskiTarihi>
+        <Sayfa>156</Sayfa>
+        <Tur>Roman</Tur>
+        <Dil>Türkçe</Dil>     
+    </Kitap>
+    
+    
+</KITAPLAR>
+    <YAYINCI>
+    <Yayıncı>
+        <YayıncıID>3001</YayıncıID>
+        <KitapID>1001</KitapID>
+        <Adi>Can Yaınları</Adi>
+        <Adres>İstanbul</Adres>
+        
+    </Yayıncı>
+    <Yayıncı>
+        <YayıncıID>3002</YayıncıID>
+        <KitapID>1002</KitapID>
+        <Adi>Pegasus</Adi>
+        <Adres>İstanbul</Adres>
+        
+    </Yayıncı>
+    <Yayıncı>
+        <YayıncıID>3003</YayıncıID>
+        <KitapID>1003</KitapID>
+        <Adi>Oda Yayınları</Adi>
+        <Adres>İstanbul</Adres>
+        
+    </Yayıncı>
+    <Yayıncı>
+        <YayıncıID>3004</YayıncıID>
+        <KitapID>1004</KitapID>
+        <Adi>İz Yayıncılık</Adi>
+        <Adres>İstanbul</Adres>
+        
+    </Yayıncı>
+    <Yayıncı>
+        <YayıncıID>3005</YayıncıID>
+        <KitapID>1006</KitapID>
+        <Adi>Doğan Kitap</Adi>
+        <Adres>İstanbul</Adres>
+        
+    </Yayıncı>
+    <Yayıncı>
+        <YayıncıID>3006</YayıncıID>
+        <KitapID>1011</KitapID>
+        <Adi>Kolektif Kitap</Adi>
+        <Adres>İstanbul</Adres>
+        
+    </Yayıncı>
+</YAYINCI>
+</VERİTABANI>
