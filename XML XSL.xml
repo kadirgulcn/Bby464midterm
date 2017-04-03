@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YAZARLAR>
+    <Yazar>
+        <YazarID>2001</YazarID>
+        <KitapID>1001</KitapID>
+        <Adi>Nikos</Adi>
+        <Soyadi>Kazancakis</Soyadi>
+        <Dogumyili>1883</Dogumyili>       
+    </Yazar>
+    <Yazar>
+        <YazarID>2002</YazarID>
+        <KitapID>1002</KitapID>
+        <Adi>Cheryl</Adi>
+        <Soyadi>Strayed</Soyadi>
+        <Dogumyili>1968</Dogumyili>        
+    </Yazar>
+     <Yazar>
+        <YazarID>2003</YazarID>
+        <KitapID>1006</KitapID>
+        <Adi>Zülfü</Adi>
+        <Soyadi>Livaneli</Soyadi>
+        <Dogumyili>1946</Dogumyili>          
+    </Yazar>
+    <Yazar>
+        <YazarID>2004</YazarID>
+        <KitapID>1010</KitapID>
+        <Adi>Yuval Noah</Adi>
+        <Soyadi>Harari</Soyadi>
+        <Dogumyili>1976</Dogumyili>  
+    </Yazar>
+    <Yazar>
+        <YazarID>2005</YazarID>
+        <KitapID>1013</KitapID>
+        <Adi>George</Adi>
+        <Soyadi>Orwell</Soyadi>
+        <Dogumyili>1903</Dogumyili>            
+    </Yazar>
+
+</YAZARLAR>
+
+
+
+
+
+
+
+
